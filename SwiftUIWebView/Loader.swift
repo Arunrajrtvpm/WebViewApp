@@ -2,8 +2,8 @@
 //  Loader.swift
 //  SwiftUIWebView
 //
-//  Created by Md. Yamin on 4/25/20.
-//  Copyright © 2020 Md. Yamin. All rights reserved.
+//  Created by Arun on 4/25/20.
+//  Copyright © 2020 Arun. All rights reserved.
 //
 
 import SwiftUI

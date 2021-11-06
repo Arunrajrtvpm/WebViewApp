@@ -2,8 +2,8 @@
 //  WebView.swift
 //  SwiftUIWebView
 //
-//  Created by Md. Yamin on 4/25/20.
-//  Copyright © 2020 Md. Yamin. All rights reserved.
+//  Created by Arun on 4/25/20.
+//  Copyright © 2020 Arun. All rights reserved.
 //
 
 import Foundation
@@ -56,7 +56,7 @@ struct WebView: UIViewRepresentable, WebViewHandlerDelegate {
     
     func updateUIView(_ webView: WKWebView, context: Context) {
         
-        if let url = URL(string: "https://armcircle.com/index.php") {
+        if let url = URL(string: "https://onestrip.net/") {
             webView.load(URLRequest(url: url))
         }
     }
